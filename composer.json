@@ -1,0 +1,13 @@
+{
+    "name": "opticalNetworkPackages",
+    "require": {
+        "nategood/httpful": "^0.2.20",
+		"guzzlehttp/guzzle": "~6.0"
+    },
+    "authors": [
+        {
+            "name": "Christian Eduardo",
+            "email": "guardian20_93@hotmail.com"
+        }
+    ]
+}
